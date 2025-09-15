@@ -5,8 +5,6 @@
 #### Capstone Project for Final Evaluation at IBM Training
 
 
-
----
 ### Features:
 <p>
 ✅ Add, edit, and delete pantry items <br>
@@ -15,10 +13,7 @@
 🔔 Get alerts for expiring items <br>
 📊 Reports and usage history
 </p>
----
 
-
----
 ### 🧰 Tech Stack:
 
 <p>
@@ -26,8 +21,6 @@
 🌐 Framework: ASP.NET (MVC) <br>
 🗄️ Database: SQL Server
 </p>
----
-
 
 ### 🚀 Getting Started:
 1. Clone the repository: <br>
