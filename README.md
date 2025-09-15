@@ -7,7 +7,7 @@
 ---
 ### Features
 
-✅ Add, edit, and delete pantry items
+✅ Add, edit, and delete pantry items <br>
 📅 Track expiration dates
 📉 View quantity levels
 🔔 Get alerts for expiring items
