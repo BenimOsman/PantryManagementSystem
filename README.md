@@ -1,29 +1,29 @@
-## 📦PantryManagementSystem - DotWings Pantry 
+# 📦PantryManagementSystem - DotWings Pantry 
 
-#### A desktop application for managing pantry items, expiration dates, and inventory levels. Built to help users keep track of food stock and minimize waste by providing alerts and a clear overview of available items.
+### A desktop application for managing pantry items, expiration dates, and inventory levels. Built to help users keep track of food stock and minimize waste by providing alerts and a clear overview of available items.
 
-##### Capstone Project for Final Evaluation at IBM Training
+#### Capstone Project for Final Evaluation at IBM Training
 
 ---
-### Features
+## Features
 
 ✅ Add, edit, and delete pantry items <br>
-📅 Track expiration dates
-📉 View quantity levels
-🔔 Get alerts for expiring items
+📅 Track expiration dates <br>
+📉 View quantity levels <br>
+🔔 Get alerts for expiring items <br>
 📊 Reports and usage history
 ---
 
 ---
 ### 🧰 Tech Stack
 
-💻 Language: C#
-🌐 Framework: ASP.NET (MVC)
+💻 Language: C# <br>
+🌐 Framework: ASP.NET (MVC) <br>
 🗄️ Database: SQL Server
 ---
 
 ### 🚀 Getting Started
-1. Clone the repository:
+1. Clone the repository: <br>
       git clone https://github.com/BenimOsman/PantryManagementSystem.git
 2. Open the project in Visual Studio.
 3. Restore dependencies and build the solution.
