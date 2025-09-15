@@ -7,7 +7,7 @@
 
 
 ---
-## Features
+## Features:
 
 ✅ Add, edit, and delete pantry items <br>
 📅 Track expiration dates <br>
@@ -18,7 +18,7 @@
 
 
 ---
-### 🧰 Tech Stack
+## 🧰 Tech Stack:
 
 💻 Language: C# <br>
 🌐 Framework: ASP.NET (MVC) <br>
@@ -27,7 +27,7 @@
 
 
 
-### 🚀 Getting Started
+### 🚀 Getting Started:
 1. Clone the repository: <br>
       git clone https://github.com/BenimOsman/PantryManagementSystem.git
 2. Open the project in Visual Studio.
